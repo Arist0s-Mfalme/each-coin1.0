@@ -6,9 +6,10 @@ from datetime import datetime
 
 def get_income():
     """Has all features of income"""
-    source = input("Enter the source of your income\n\t")
+    print('\n//INCOME SECTION//\n')
+    source = input("Enter the source of your income\n\t_")
     while True:
-        amount = input("Enter the amount you received\n\tsh.")
+        amount = input("Enter the amount you received\n\t_sh.")
         if amount.isdigit():
             amount = int(amount)
 
@@ -31,5 +32,4 @@ def get_income():
 
     print("\n---\nIncome recorded successfully.\n---")
     print(f"Amount incremented sh.{amount}")
-
-
+    print(f"NEW BAL: sh.{bal}")

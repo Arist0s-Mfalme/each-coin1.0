@@ -6,7 +6,7 @@ import savetocsv as a
 
 
 def main():
-    print("\nEACHCOIN 1.0\n")
+    print("\n---EACHCOIN 1.0---\n")
 
     # List of services
     while True:

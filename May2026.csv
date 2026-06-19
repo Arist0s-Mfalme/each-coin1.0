@@ -1,0 +1,144 @@
+Date,Income,Expense,Savings,Debt owed,Debt given,Category/More Info,Specific Item,Amount,Balance
+
+2026-05-06,INCOME,---,---,---,---,Dad,----,200,200.0
+2026-05-06,INCOME,---,---,---,---,April bal,----,1714,1914.0
+2026-05-06,---,Expense,---,---,---,🍉Food,Breakfast,40,1874.0
+2026-05-06,---,Expense,---,---,---,📳Utilities,airtime,20,1854.0
+2026-05-06,---,Expense,---,---,---,🍉Food,lunch,50,1804.0
+2026-05-06,---,Expense,---,---,---,🍉Food,supper,90,1714.0
+2026-05-06,---,Expense,---,---,---,🚕Transport,Fare,90,1624.0
+2026-05-06,---,Expense,---,---,---,👚Clothing,inner wear,550,1074.0
+2026-05-06,---,Expense,---,---,---,🍉Food,maize,30,1044.0
+2026-05-06,---,Expense,---,---,---,🔏Personal Items,"tissue,breakfast",180,864.0
+2026-05-06,---,Expense,---,---,---,🍉Food,lunch,30,834.0
+2026-05-06,---,Expense,---,---,---,🍉Food,supper,80,754.0
+2026-05-06,---,Expense,---,---,---,🍉Food,Sabbath lunch,50,704.0
+2026-05-06,---,Expense,---,---,---,🍉Food,breakfast,55,649.0
+2026-05-06,---,Expense,---,---,---,🍉Food,linch,318,331.0
+2026-05-06,INCOME,---,---,---,---,offset imbalance,----,318,649.0
+2026-05-06,---,Expense,---,---,---,🍉Food,supper,60,589.0
+2026-05-06,---,Expense,---,---,---,🍉Food,breakfast,65,524.0
+2026-05-06,-,-,-,DEBT OWED,-,Griffin,-,100.0,424.0
+2026-05-06,---,Expense,---,---,---,🍉Food,supper,50,374.0
+2026-05-06,---,Expense,---,---,---,📳Utilities,airtime,20,354.0
+2026-05-17,---,Expense,---,---,---,🌴Miscellenious,blank,10,344.0
+2026-05-17,---,Expense,---,---,---,🍉Food,Lunch,50,294.0
+2026-05-17,---,Expense,---,---,---,🍉Food,Food,15,279.0
+2026-05-17,---,Expense,---,---,---,🍉Food,breakfast and luch,95,184.0
+2026-05-17,---,Expense,---,---,---,🍉Food,lunch,15,169.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,airtime,20,149.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,80,69.0
+2026-05-17,INCOME,---,---,---,---,Dad,----,1000,1069.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,Bundles,20,1049.0
+2026-05-17,---,Expense,---,---,---,🔏Personal Items,Colgate,90,959.0
+2026-05-17,---,Expense,---,---,---,🍉Food,breakfast,15,944.0
+2026-05-17,---,Expense,---,---,---,🚕Transport,Preacher's fare,500,444.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,airtime ,27,417.0
+2026-05-17,---,Expense,---,---,---,🌴Miscellenious,transaction,38,379.0
+2026-05-17,---,Expense,---,---,---,🍉Food,Breakfast,50,329.0
+2026-05-17,---,Expense,---,---,---,🍉Food,Supper,50,279.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,airtime,20,259.0
+2026-05-17,---,Expense,---,---,---,🍉Food,lunch,27,232.0
+2026-05-17,---,Expense,---,---,---,🍉Food,lunch 18,18,214.0
+2026-05-17,---,Expense,---,---,---,🍉Food,breakfast,15,199.0
+2026-05-17,---,Expense,---,---,---,🍉Food,Breakfast,40,159.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,bundles ,20,139.0
+2026-05-17,INCOME,---,---,---,---,Mom,----,1050,1189.0
+2026-05-17,---,Expense,---,---,---,📚️School necessities,Fullscap,90,1099.0
+2026-05-17,---,Expense,---,---,---,🍉Food,lunch,50,1049.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,airtime,23,1026.0
+2026-05-17,---,Expense,---,---,---,🌴Miscellenious,token,70,956.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,80,876.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,airtime,20,856.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,bundles,20,836.0
+2026-05-17,---,Expense,---,---,---,🍉Food,lunch,50,786.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,airtime,23,763.0
+2026-05-17,INCOME,---,---,---,---,Mom,----,230,993.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,70,923.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,30,893.0
+2026-05-17,---,Expense,---,---,---,🍉Food,breakfast,65,828.0
+2026-05-17,INCOME,---,---,---,---,Dad,----,1000,1828.0
+2026-05-17,---,Expense,---,---,---,🍉Food,Breakfast,50,1778.0
+2026-05-17,---,Expense,---,---,---,📚️School necessities,CAD ASSIGNMENT,90,1688.0
+2026-05-17,---,Expense,---,---,---,📚️School necessities,Assigment,70,1618.0
+2026-05-17,INCOME,---,---,---,---,Debt repay,----,30,1648.0
+2026-05-17,---,Expense,---,---,---,📳Utilities,Monthly bundle,1010,638.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,50,588.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,15,573.0
+2026-05-17,---,Expense,---,---,---,🍉Food,lunch,60,513.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,622,-109.0
+2026-05-17,---,Expense,---,---,---,🍉Food,breakfast,45,-154.0
+2026-05-17,---,Expense,---,---,---,🍉Food,lunch,45,-199.0
+2026-05-17,---,Expense,---,---,---,🌴Miscellenious,bike riding,30,-229.0
+2026-05-17,---,Expense,---,---,---,🌴Miscellenious,bike riding,20,-249.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,30,-279.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,45,-324.0
+2026-05-17,---,Expense,---,---,---,🍉Food,breakfast,45,-369.0
+2026-05-17,---,Expense,---,---,---,🍉Food,lunch,45,-414.0
+2026-05-17,---,Expense,---,---,---,🍉Food,supper,50,-464.0
+2026-05-17,---,Expense,---,---,---,🍉Food,breakfast,45,-509.0
+2026-05-17,INCOME,---,---,---,---,Offset,----,572,63.0
+2026-05-22,---,Expense,---,---,---,🍉Food,Breakfast,15,48.0
+2026-05-22,---,Expense,---,---,---,🍉Food,Lunch,45,3.0
+2026-05-22,INCOME,---,---,---,---,Collins,----,150,153.0
+2026-05-22,---,Expense,---,---,---,🍉Food,Supper,60,93.0
+2026-05-22,---,Expense,---,---,---,🍉Food,breakfast,45,48.0
+2026-05-22,---,Expense,---,---,---,🍉Food,lunch,30,18.0
+2026-05-22,INCOME,---,---,---,---,Mom,----,300,318.0
+2026-05-22,---,Expense,---,---,---,🌴Miscellenious,Water,40,278.0
+2026-05-22,---,Expense,---,---,---,🍉Food,supper,70,208.0
+2026-05-22,---,Expense,---,---,---,🍉Food,breakfast,65,143.0
+2026-05-22,---,Expense,---,---,---,🍉Food,lunch,70,73.0
+2026-05-22,---,Expense,---,---,---,🍉Food,supper,60,13.0
+2026-05-22,---,Expense,---,---,---,🍉Food,lunch,60,-47.0
+2026-05-22,INCOME,---,---,---,---,Dad,----,500,453.0
+2026-05-22,INCOME,---,---,---,---,Christine,----,100,553.0
+2026-05-22,---,Expense,---,---,---,🍉Food,supper,45,508.0
+2026-05-22,INCOME,---,---,---,---,Dad,----,600,1108.0
+2026-05-22,---,Expense,---,---,---,🍉Food,breakfast,50,1058.0
+2026-05-22,-,-,-,DEBT OWED,-,Gichuhi,-,15.0,1043.0
+2026-05-22,---,Expense,---,---,---,🍉Food,breakfast,30,1013.0
+2026-05-22,---,Expense,---,---,---,🚕Transport,fare,100,913.0
+2026-05-22,-,-,SAVINGS,-,-,-,-,40.0,873.0
+2026-05-22,---,Expense,---,---,---,🍉Food,lunch,50,823.0
+2026-06-08,---,Expense,---,---,---,🍉Food,Lunch,45,778.0
+2026-06-08,-,-,-,DEBT OWED,-,Christine,-,50.0,728.0
+2026-06-08,---,Expense,---,---,---,📳Utilities,airtime,30,698.0
+2026-06-08,---,Expense,---,---,---,🍉Food,supper,50,648.0
+2026-06-08,---,Expense,---,---,---,🌴Miscellenious,Safaricom theft,147,501.0
+2026-06-08,---,Expense,---,---,---,🍉Food,breakfast,45,456.0
+2026-06-08,---,Expense,---,---,---,🍉Food,lunch,50,406.0
+2026-06-08,---,Expense,---,---,---,🍉Food,supper,30,376.0
+2026-06-08,---,Expense,---,---,---,🔏Personal Items,Shopping,120,256.0
+2026-06-08,---,Expense,---,---,---,🍉Food,breakfast,45,211.0
+2026-06-08,---,Expense,---,---,---,🌴Miscellenious,debt,20,191.0
+2026-06-08,---,Expense,---,---,---,🍉Food,lunch,45,146.0
+2026-06-08,---,Expense,---,---,---,🍉Food,supper,70,76.0
+2026-06-08,---,Expense,---,---,---,🍉Food,breakfast,45,31.0
+2026-06-08,INCOME,---,---,---,---,savings,----,60,91.0
+2026-06-08,---,Expense,---,---,---,🍉Food,lunch,70,21.0
+2026-06-08,INCOME,---,---,---,---,sabings,----,80,101.0
+2026-06-08,---,Expense,---,---,---,🍉Food,supper,45,56.0
+2026-06-08,INCOME,---,---,---,---,dad,----,500,556.0
+2026-06-08,---,Expense,---,---,---,🍉Food,breakfast,65,491.0
+2026-06-08,INCOME,---,---,---,---,offset,----,10,501.0
+2026-06-08,---,Expense,---,---,---,🍉Food,lunch,70,431.0
+2026-06-08,INCOME,---,---,---,---,mom,----,200,631.0
+2026-06-08,---,Expense,---,---,---,🍉Food,supper,50,581.0
+2026-06-08,---,Expense,---,---,---,🍉Food,breakfast,45,536.0
+2026-06-08,---,Expense,---,---,---,🍉Food,lunch,45,491.0
+2026-06-08,---,Expense,---,---,---,🍉Food,water,40,451.0
+2026-06-08,---,Expense,---,---,---,🍉Food,supper,60,391.0
+2026-06-08,---,Expense,---,---,---,🌴Miscellenious,-,45,346.0
+2026-06-08,---,Expense,---,---,---,🍉Food,breakfast,15,331.0
+2026-06-08,---,Expense,---,---,---,🍉Food,lunch,50,281.0
+2026-06-08,---,Expense,---,---,---,🍉Food,supper,40,241.0
+2026-06-08,---,Expense,---,---,---,🍉Food,breakfast,45,196.0
+2026-06-08,INCOME,---,---,---,---,dad,----,500,696.0
+2026-06-08,---,Expense,---,---,---,🌴Miscellenious,Tithe,120,576.0
+2026-06-08,---,Expense,---,---,---,🌴Miscellenious,transcaction,7,569.0
+2026-06-08,---,Expense,---,---,---,🍉Food,supper,60,509.0
+2026-06-08,---,Expense,---,---,---,🍉Food,breakfast,30,479.0
+2026-06-08,---,Expense,---,---,---,🍉Food,supper,70,409.0
+2026-06-08,---,Expense,---,---,---,🌴Miscellenious,safaricom theft,50,359.0
+2026-06-08,---,Expense,---,---,---,🍉Food,breakfast85,85,274.0

@@ -27,16 +27,18 @@ def get_balance():
 
 def get_total():
     print("Enter the start and end date (eg 2026-03-18)")
-    start_date = input("START DATE: ")
-    end_date = input("END DATE: ")
+    start_date = input("\tSTART DATE: ")
+    end_date = input("\tEND DATE: ")
 
     # convert input strings to date objects
     start = datetime.strptime(start_date, "%Y-%m-%d")
     end = datetime.strptime(end_date, "%Y-%m-%d")
 
     # Get total expenses/ total income
+
     enquiry = input(
-        "1.Total Income\n2.Total expenses, (1 or 2)\t_")
+        "1.Total Income\n"
+        "2.Total expenses, (1 or 2)\n\t_")
 
     # initialize total
     total = 0
@@ -65,5 +67,8 @@ def get_total():
                 else:
                     print("Invalid input. Please enter a correct input.")
                     return None  # stop execution
+
+        # USER DISPLAY
+        print(f"\n---total amount sh.{total}---\n")
 
     return round(total, 2)

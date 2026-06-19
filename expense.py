@@ -9,11 +9,12 @@ def get_expenses():
     """
     Has all the features of the expenses
     """
+    print('\n//EXPENSE SECTION//\n')
     # list containing categories within expenses
     category_list = ["🍉Food", "📚️School necessities",
                      "🔏Personal Items", "🛖Rent", "🏹goal_based expense",
                      "🚕Transport", "👚Clothing", "📳Utilities", "🏦Saving",
-                     "🌴Miscellenious"]
+                     "🌴Miscellenious", "🤲Tithe"]
 
     print("Pick a category you want to fill for the expense")
     # enumerates the categories
@@ -23,11 +24,11 @@ def get_expenses():
     # A while loop that ensures the user enters the right input
     while True:
 
-        category_input = input("Enter the expense category no.\t")
+        category_input = input("Enter the expense category no.\n\t_")
         if category_input.isdigit():
             category_input = int(category_input)
 
-            if category_input <= 0 or category_input >= 11:
+            if category_input <= 0 or category_input > len(category_list):
                 print("Please enter a number within the range")
                 continue
 
@@ -40,11 +41,11 @@ def get_expenses():
     category_pick = category_list[category_input - 1]
 
     # Asks for the specific item or service purchased
-    category_item = input("Enter the item or service you purchased\n\t")
+    category_item = input("Enter the item or service you purchased\n\t_")
 
     # Asks for the amount the user spent
     while True:
-        amount = input("Enter the amount you spent\n\t sh.")
+        amount = input("Enter the amount you spent\n\t_sh.")
         if amount.isdigit():
             amount = int(amount)
 
@@ -62,7 +63,8 @@ def get_expenses():
 
     # write to csv
     s.save_data_to_csv(datetime.now().strftime("%Y-%m-%d"),
-                       '---', 'Expense', "---", '---', '---', category_pick, category_item, amount, bal)
+                       '---', 'EXPENSE', "---", '---', '---', category_pick, category_item, amount, bal)
 
     print("\n---\nExpenses recorded successfully.\n---")
     print(f"Amount deducted sh.{amount}")
+    print(f"NEW BAL: sh.{bal}")

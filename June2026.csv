@@ -1,0 +1,49 @@
+Date,Income,Expense,Savings,I OWE,OWED TO ME,Category/More Info,Specific Item,Amount,Balance
+
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,breakfast,15,-15.0
+2026-06-16,INCOME,---,---,---,---,may bal,----,289,274.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,lunch,70,204.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,supper,80,124.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,breakfast,30,94.0
+2026-06-16,INCOME,---,---,---,---,mom,----,300,394.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,lunch,60,334.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,lunch,60,274.0
+2026-06-16,-,-,-,-,OWED TO ME,Ian,-,-100.0,174.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,lunch,50,124.0
+2026-06-16,INCOME,---,---,---,---,offset miscalc,----,200,324.0
+2026-06-16,---,EXPENSE,---,---,---,📳Utilities,airtime,10,314.0
+2026-06-16,-,-,-,-,OWED TO ME,ian,-,100.0,214.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,supper,50,164.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,breakfast,40,124.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,lunch,75,49.0
+2026-06-16,INCOME,---,---,---,---,dad,----,1500,1549.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,breakfast,50,1499.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,breakfast,40,1459.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,lunch,80,1379.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,supper,100,1279.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,breakfast,20,1259.0
+2026-06-16,---,EXPENSE,---,---,---,🤲Tithe,tithe,180,1079.0
+2026-06-16,---,EXPENSE,---,---,---,🌴Miscellenious,transaction cost,7,1072.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,supper,50,1022.0
+2026-06-16,---,EXPENSE,---,---,---,🚕Transport,fare,500,522.0
+2026-06-16,---,EXPENSE,---,---,---,🌴Miscellenious,transaction cost,29,493.0
+2026-06-16,---,EXPENSE,---,---,---,🚕Transport,fare,50,443.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,breakfast & lunch,239,204.0
+2026-06-16,---,EXPENSE,---,---,---,🚕Transport,fare,180,24.0
+2026-06-16,---,EXPENSE,---,---,---,📚️School necessities,replacement,50,-26.0
+2026-06-16,-,-,SAVINGS,-,-,-,-,30.0,4.0
+2026-06-16,-,-,SAVINGS,-,-,-,-,11.0,15.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,salt,15,0.0
+2026-06-16,INCOME,---,---,---,---,dad,----,45,45.0
+2026-06-16,INCOME,---,---,---,---,dad,----,5,50.0
+2026-06-16,---,EXPENSE,---,---,---,🌴Miscellenious,airtime,10,40.0
+2026-06-16,INCOME,---,---,---,---,dad,----,193,233.0
+2026-06-16,---,EXPENSE,---,---,---,🚕Transport,fare,150,83.0
+2026-06-16,INCOME,---,---,---,---,dad,----,4100,4183.0
+2026-06-16,---,EXPENSE,---,---,---,👚Clothing,cape,300,3883.0
+2026-06-16,---,EXPENSE,---,---,---,🚕Transport,fare,573,3310.0
+2026-06-16,---,EXPENSE,---,---,---,🚕Transport,fare,40,3270.0
+2026-06-16,INCOME,---,---,---,---,mom,----,250,3520.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,water,40,3480.0
+2026-06-16,---,EXPENSE,---,---,---,🍉Food,supper,60,3420.0
+2026-06-16,---,EXPENSE,---,---,---,📳Utilities,airtime,10,3410.0

@@ -1,7 +1,7 @@
 import csv
 import os
 from datetime import datetime
-csv_file = "each_coin.csv"
+csv_file = "June2026.csv"
 
 # ---Initialize csv file if it doesn't exist---
 
@@ -11,7 +11,7 @@ def initialize_csv():
     if not os.path.exists(csv_file):
         with open(csv_file, 'x', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow(["Date", "Income", "Expense", "Savings", "Debt owed", "Debt given", "Category/More Info",
+            writer.writerow(["Date", "Income", "Expense", "Savings", "I OWE", "OWED TO ME", "Category/More Info",
                             "Specific Item", "Amount", "Balance"])
             # empty line after header
             writer.writerow([])
