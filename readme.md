@@ -1,4 +1,4 @@
-A simple CLI programm that helps manage finances by:
+## A simple CLI programm that helps manage finances by:
 -> tracking income, expenses, debts and savings
 -> giving financial summary
 
