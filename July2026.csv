@@ -1,0 +1,52 @@
+Date,Income,Expense,Savings,I OWE,OWED TO ME,Category/More Info,Specific Item,Amount,Balance
+
+2026-07-01,INCOME,---,---,---,---,bal,----,469,469.0
+2026-07-01,---,EXPENSE,---,---,---,🍉Food,breakfast,15,454.0
+2026-08-10,---,EXPENSE,---,---,---,📳Utilities,airtime,10,444.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,lunch,50,394.0
+2026-08-10,INCOME,---,---,---,---,Dad,----,8500,8894.0
+2026-08-10,---,EXPENSE,---,---,---,🛖Rent,rent + deposit,6500,2394.0
+2026-08-10,---,EXPENSE,---,---,---,🌴Miscellenious,transaction cost,78,2316.0
+2026-08-10,-,-,-,I OWE,-,Christine,-,-1013.0,1303.0
+2026-08-10,-,-,SAVINGS,-,-,-,-,409.0,894.0
+2026-08-10,---,EXPENSE,---,---,---,📳Utilities,airtime,10,884.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,supper,30,854.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,breakfast,15,839.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,lunch,50,789.0
+2026-08-10,INCOME,---,---,---,---,Christine,----,75,864.0
+2026-08-10,---,EXPENSE,---,---,---,📳Utilities,airtime,10,854.0
+2026-08-10,-,-,SAVINGS,-,-,-,-,175.0,679.0
+2026-08-10,---,EXPENSE,---,---,---,🚕Transport,Bike ride,40,639.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,supper,60,579.0
+2026-08-10,---,EXPENSE,---,---,---,🌴Miscellenious,till fill,10,569.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,breakfast,45,524.0
+2026-08-10,---,EXPENSE,---,---,---,📳Utilities,airtime,20,504.0
+2026-08-10,---,EXPENSE,---,---,---,🚕Transport,fare,40,464.0
+2026-08-10,-,-,-,I OWE,-,Hustler fund,-,500.0,964.0
+2026-08-10,---,EXPENSE,---,---,---,🌴Miscellenious,hustler fund deduction,25,939.0
+
+2026-08-10,-,-,SAVINGS,-,-,-,-,475.0,464.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,supper,30,434.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,breakfast,20,414.0
+2026-08-10,-,-,SAVINGS,-,-,-,-,15.0,399.0
+2026-08-10,---,EXPENSE,---,---,---,🌴Miscellenious,airtime,15,384.0
+2026-08-10,---,EXPENSE,---,---,---,🚕Transport,fare,40,344.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,supper,40,304.0
+2026-08-10,INCOME,---,---,---,---,Dad,----,2600,2904.0
+2026-08-10,-,-,SAVINGS,-,-,-,-,2600.0,304.0
+2026-08-10,---,EXPENSE,---,---,---,📳Utilities,airtime,15,289.0
+2026-08-10,---,EXPENSE,---,---,---,📳Utilities,airtime,10,279.0
+2026-08-10,---,EXPENSE,---,---,---,📳Utilities,airtime,10,269.0
+2026-08-10,---,EXPENSE,---,---,---,🚕Transport,fare,30,239.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,breakfast,45,194.0
+2026-08-10,-,-,SAVINGS,-,-,-,-,200.0,394.0
+2026-08-10,---,EXPENSE,---,---,---,🚕Transport,moving out,200,194.0
+2026-08-10,---,EXPENSE,---,---,---,🌴Miscellenious,Transaction cost,7,187.0
+2026-08-10,-,-,SAVINGS,-,-,-,-,15.0,172.0
+2026-08-10,INCOME,---,---,---,---,Dad,----,548,720.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,Supper,60,660.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,kitchen towel,50,610.0
+2026-08-10,-,-,-,-,OWED TO ME,Ian,-,-130.0,740.0
+2026-08-10,-,-,SAVINGS,-,-,-,-,6000.0,6740.0
+2026-08-10,---,EXPENSE,---,---,---,🍉Food,supper/breakfast,95,6645.0
+2026-10-12,---,EXPENSE,---,---,---,🍉Food,chapo,50,6595.0

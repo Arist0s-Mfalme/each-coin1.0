@@ -1,7 +1,7 @@
 import csv
 import os
 from datetime import datetime
-csv_file = "June2026.csv"
+csv_file = "July2026.csv"
 
 # ---Initialize csv file if it doesn't exist---
 

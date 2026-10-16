@@ -8,6 +8,8 @@ def get_income():
     """Has all features of income"""
     print('\n//INCOME SECTION//\n')
     source = input("Enter the source of your income\n\t_")
+
+    # Amount
     while True:
         amount = input("Enter the amount you received\n\t_sh.")
         if amount.isdigit():
@@ -22,11 +24,11 @@ def get_income():
         else:
             print("please enter a valid number")
 
-    # get bal
+    # balance
     bal = f.get_balance() + amount
     bal = round(bal, 2)
 
-    # write to csv
+    # save
     s.save_data_to_csv(datetime.now().strftime("%Y-%m-%d"), 'INCOME', '---', "---", "---", "---", source,
                        '----', amount, bal)
 

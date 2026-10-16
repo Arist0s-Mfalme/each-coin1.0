@@ -34,10 +34,15 @@ def debt():
     d_person = input("Enter the Counterparty's name\n\t_")
 
     while True:
+
+        # I OWE
         if d_query == "1":
             try:
-                d_amount = float(input("What was the amount lent\n\t_sh. "))
+                # amount
+                d_amount = float(input("Amount lent\n\t_sh. "))
+                # balance
                 bal = f.get_balance() + d_amount
+                # save
                 s.save_data_to_csv(
                     datetime.now().strftime("%Y-%m-%d"), "-",
                     "-", "-", "I OWE", "-", d_person, "-",
@@ -49,7 +54,7 @@ def debt():
                 save_totals(totals)
 
                 # USER DISPLAY
-                print(f"Amount I OWE sh.{d_amount}")
+                print(f"Total I Owe sh.{d_amount}")
                 print(f"NEW TOTAL I OWE BAL sh.{totals['total_i_owe']}")
                 break
 
@@ -58,14 +63,17 @@ def debt():
 
         elif d_query == "2":
             try:
+                # amount
                 d_amount = float(
                     input("What was the amount you received\n\t_sh. "))
+                # balance
                 bal = f.get_balance() - d_amount
                 s.save_data_to_csv(
                     datetime.now().strftime("%Y-%m-%d"), "-",
                     "-", "-", "-", "OWED TO ME", d_person, "-",
                     d_amount, bal
                 )
+
                 # Update totals
                 totals = load_totals()
                 totals["total_owed_to_me"] += d_amount
@@ -120,8 +128,9 @@ def debt_balanced():
                 save_totals(totals)
 
                 # USER DISPLAY
-                print(f"Amount I OWE sh.{d_amount}")
+                print(f"Amount I OWE-d sh.{d_amount}")
                 print(f"NEW TOTAL I OWE BAL sh.{totals['total_i_owe']}")
+                print(f"Bal sh.{bal}")
                 break
 
             except ValueError:
